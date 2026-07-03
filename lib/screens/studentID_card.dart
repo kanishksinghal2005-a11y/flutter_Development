@@ -15,7 +15,7 @@ void main(){
           decoration: BoxDecoration(
             border: Border.all(
               width: 2,
-              color: Colors.blue,
+              color: Colors.green,
             ),
             borderRadius: BorderRadius.circular(15),
 
